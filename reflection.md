@@ -23,3 +23,4 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
+Working with Professor Fudge made it easy to follow what was required in the assignment. I need to make sure to look back at the location_dashboard.py to fully understand what is needed from it.
